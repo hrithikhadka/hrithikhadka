@@ -1,7 +1,7 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Hritik</h1>
-<h3 align="center">A passionate Web Developer.</h3>
+<h1>Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Hritik</h1>
+<h2>A tech and fitness enthusiast who loves to learn new things.</h3>
+<br/>
 
 ## 🙋‍♂️ About Me
 
@@ -12,8 +12,14 @@
 - 👨‍💻 You can have a look at my personal portfolio **[My Portfolio](https://hrithikhadka.netlify.app)**
 
 - 📫 How to reach me **hrithikhadka00@gmail.com**
+<br/>
 
-- ⚡ Fun Fact **Did you know that banging your head against a wall for an hour burns 150 calories?.**
+
+<h3>Profile Views</h3>
+
+![Visitor Count](https://profile-counter.glitch.me/{hrithikhadka}/count.svg)
+
+<br/>
 
 ## 🚀 Languages and Tools:
 
@@ -42,9 +48,7 @@
 <br/>
 
 <a href="https://github.com/hrithikhadka/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=hrithikhadka&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
-<br/> -->
+ -->
 
 ## Connect with me:
 
