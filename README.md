@@ -31,7 +31,10 @@
 
 ## Connect with me:
 <p align="left">
-<a href = "https://www.linkedin.com/in/hrithik-khadka-5975331a1/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href="https://www.linkedin.com/in/hrithikhadka/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  
 </p>
 
 <h3>Profile Views</h3>
