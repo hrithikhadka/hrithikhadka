@@ -11,7 +11,7 @@
 
 - 👨‍💻 You can have a look at my personal portfolio **[My Portfolio](https://hrithikhadka.netlify.app)**
 
-- 📫 Contact: **hrithikhadka00@gmail.com**
+- 📫 Contact Me: **hrithikhadka00@gmail.com**
 <br/>
 
 
