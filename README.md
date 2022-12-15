@@ -14,7 +14,6 @@
 - 📫 Contact Me: **hrithikhadka00@gmail.com**
 <br/>
 
-
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
