@@ -3,7 +3,7 @@
 <h2>A tech and fitness enthusiast who loves to learn new things.</h3>
 <br/>
 
-## 🙋‍♂️ About Me
+## About Me
 
 - 🌱 I’m currently learning **React JS.**
 
