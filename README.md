@@ -14,7 +14,7 @@
 - 📫 Contact Me: **hrithikhadka00@gmail.com**
 <br/>
 
-## 🚀 Languages and Tools:
+## Languages and Tools:
 
 <p align="left"> 
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
@@ -34,9 +34,4 @@
 <a href="https://www.linkedin.com/in/hrithikhadka/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  
 </p>
-
-<h3>Profile Views</h3>
-
-![Visitor Count](https://profile-counter.glitch.me/{hrithikhadka}/count.svg)
