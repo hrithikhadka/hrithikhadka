@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **React JS.**
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
-
 - 👨‍💻 You can have a look at my personal portfolio **[My Portfolio](https://hrithikhadka.netlify.app)**
 
 - 📫 Contact Me: **hrithikhadka00@gmail.com**
