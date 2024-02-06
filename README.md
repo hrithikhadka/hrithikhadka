@@ -7,8 +7,8 @@ Web Developer
 * 🌍  I'm based in Helsinki
 * 🖥️  See my portfolio at [My website](http://hrithikhadka.vercel.app)
 * ✉️  You can contact me at [hrithikhadka00@gmail.com](mailto:hrithikhadka00@gmail.com)
-* 🧠  I'm learning Next.js
-* ⚡  1+1 = 10
+* 🧠  I'm learning Full Stack Development
+* ⚡  Elephants are the only mammals that can't jump
 
 ### Skills
 
