@@ -1,5 +1,5 @@
 *  Hi 👋, I'm Hritik Khadka
-*  I'm based in Helsinki
+* Based in Helsinki
 * Check out my portfolio at [hrithikhadka](http://hrithikhadka.vercel.app)
 * Contact me at [hritik.khadka@outlook.com](mailto:hritik.khadka@outlook.com)
 * Currently learning Full Stack Development
@@ -25,17 +25,8 @@
 </p>
 
 ###
-   <a href="https://www.linkedin.com/in/hrithikhadka" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-  </a>
-
- <a href="https://github.com/hrithikhadka" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="35" alt="github logo" />
-  </a>
-  
- <a href="https://discord.com/users/hrithikhadka" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="35" alt="discord logo" />
-  </a>
+   <a href="https://www.linkedin.com/in/hrithikhadka" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" /></a>
+   <a href="https://discord.com/users/hrithikhadka" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="35" alt="discord logo" /></a>
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/hrithikhadka/hrithikhadka/blob/output/github-contribution-grid-snake-dark.gif" />
